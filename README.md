@@ -1,1 +1,1 @@
-# CODSOFT
+# Amazon Clone
