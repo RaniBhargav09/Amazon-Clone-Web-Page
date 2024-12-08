@@ -1,1 +1,1 @@
-Responsive Amazon Website.
+
